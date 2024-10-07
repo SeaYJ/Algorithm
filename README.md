@@ -1,231 +1,231 @@
-# AcWing Ëã·¨»ù´¡¿Î
+ï»¿# AcWing ç®—æ³•åŸºç¡€è¯¾
 
-## µÚÒ»½²¡¢»ù´¡Ëã·¨
+## ç¬¬ä¸€è®²ã€åŸºç¡€ç®—æ³•
 
-### ¿ìËÙÅÅÐò
-- [ ] AcWing 785. ¿ìËÙÅÅÐò
-- [ ] AcWing 786. µÚk¸öÊý
+### å¿«é€ŸæŽ’åº
+- [x] [AcWing 785.](https://www.acwing.com/problem/content/787/) [å¿«é€ŸæŽ’åº](/src/AcWing785.å¿«é€ŸæŽ’åº.cpp)
+- [ ] AcWing 786. ç¬¬kä¸ªæ•°
 
-### ¹é²¢ÅÅÐò
-- [ ] AcWing 787. ¹é²¢ÅÅÐò
-- [ ] AcWing 788. ÄæÐò¶ÔµÄÊýÁ¿
+### å½’å¹¶æŽ’åº
+- [ ] AcWing 787. å½’å¹¶æŽ’åº
+- [ ] AcWing 788. é€†åºå¯¹çš„æ•°é‡
 
-### ¶þ·Ö
-- [ ] AcWing 789. ÊýµÄ·¶Î§
-- [ ] AcWing 790. ÊýµÄÈý´Î·½¸ù
+### äºŒåˆ†
+- [ ] AcWing 789. æ•°çš„èŒƒå›´
+- [ ] AcWing 790. æ•°çš„ä¸‰æ¬¡æ–¹æ ¹
 
-### ¸ß¾«¶È
-- [ ] AcWing 791. ¸ß¾«¶È¼Ó·¨
-- [ ] AcWing 792. ¸ß¾«¶È¼õ·¨
-- [ ] AcWing 793. ¸ß¾«¶È³Ë·¨
-- [ ] AcWing 794. ¸ß¾«¶È³ý·¨
+### é«˜ç²¾åº¦
+- [ ] AcWing 791. é«˜ç²¾åº¦åŠ æ³•
+- [ ] AcWing 792. é«˜ç²¾åº¦å‡æ³•
+- [ ] AcWing 793. é«˜ç²¾åº¦ä¹˜æ³•
+- [ ] AcWing 794. é«˜ç²¾åº¦é™¤æ³•
 
-### Ç°×ººÍÓë²î·Ö
-- [ ] AcWing 795. Ç°×ººÍ
-- [ ] AcWing 796. ×Ó¾ØÕóµÄºÍ
-- [ ] AcWing 797. ²î·Ö
-- [ ] AcWing 798. ²î·Ö¾ØÕó
+### å‰ç¼€å’Œä¸Žå·®åˆ†
+- [ ] AcWing 795. å‰ç¼€å’Œ
+- [ ] AcWing 796. å­çŸ©é˜µçš„å’Œ
+- [ ] AcWing 797. å·®åˆ†
+- [ ] AcWing 798. å·®åˆ†çŸ©é˜µ
 
-### Ë«Ö¸ÕëËã·¨
-- [ ] AcWing 799. ×î³¤Á¬Ðø²»ÖØ¸´×ÓÐòÁÐ
-- [ ] AcWing 800. Êý×éÔªËØµÄÄ¿±êºÍ
-- [ ] AcWing 2816. ÅÐ¶Ï×ÓÐòÁÐ
+### åŒæŒ‡é’ˆç®—æ³•
+- [ ] AcWing 799. æœ€é•¿è¿žç»­ä¸é‡å¤å­åºåˆ—
+- [ ] AcWing 800. æ•°ç»„å…ƒç´ çš„ç›®æ ‡å’Œ
+- [ ] AcWing 2816. åˆ¤æ–­å­åºåˆ—
 
-### Î»ÔËËã
-- [ ] AcWing 801. ¶þ½øÖÆÖÐ1µÄ¸öÊý
+### ä½è¿ç®—
+- [ ] AcWing 801. äºŒè¿›åˆ¶ä¸­1çš„ä¸ªæ•°
 
-### ÀëÉ¢»¯
-- [ ] AcWing 802. Çø¼äºÍ
+### ç¦»æ•£åŒ–
+- [ ] AcWing 802. åŒºé—´å’Œ
 
-### Çø¼äºÏ²¢
-- [ ] AcWing 803. Çø¼äºÏ²¢
+### åŒºé—´åˆå¹¶
+- [ ] AcWing 803. åŒºé—´åˆå¹¶
 
-## µÚ¶þ½²¡¢Êý¾Ý½á¹¹
+## ç¬¬äºŒè®²ã€æ•°æ®ç»“æž„
 
-### µ¥Á´±í
-- [ ] AcWing 826. µ¥Á´±í
+### å•é“¾è¡¨
+- [ ] AcWing 826. å•é“¾è¡¨
 
-### Ë«Á´±í
-- [ ] AcWing 827. Ë«Á´±í
+### åŒé“¾è¡¨
+- [ ] AcWing 827. åŒé“¾è¡¨
 
-### Õ»
-- [ ] AcWing 828. Ä£ÄâÕ»
-- [ ] AcWing 3302. ±í´ïÊ½ÇóÖµ
+### æ ˆ
+- [ ] AcWing 828. æ¨¡æ‹Ÿæ ˆ
+- [ ] AcWing 3302. è¡¨è¾¾å¼æ±‚å€¼
 
-### ¶ÓÁÐ
-- [ ] AcWing 829. Ä£Äâ¶ÓÁÐ
+### é˜Ÿåˆ—
+- [ ] AcWing 829. æ¨¡æ‹Ÿé˜Ÿåˆ—
 
-### µ¥µ÷Õ»
-- [ ] AcWing 830. µ¥µ÷Õ»
+### å•è°ƒæ ˆ
+- [ ] AcWing 830. å•è°ƒæ ˆ
 
-### µ¥µ÷¶ÓÁÐ
-- [ ] AcWing 154. »¬¶¯´°¿Ú
+### å•è°ƒé˜Ÿåˆ—
+- [ ] AcWing 154. æ»‘åŠ¨çª—å£
 
 ### KMP
-- [ ] AcWing 831. KMP×Ö·û´®
+- [ ] AcWing 831. KMPå­—ç¬¦ä¸²
 
 ### Trie
-- [ ] AcWing 835. Trie×Ö·û´®Í³¼Æ
-- [ ] AcWing 143. ×î´óÒì»ò¶Ô
+- [ ] AcWing 835. Trieå­—ç¬¦ä¸²ç»Ÿè®¡
+- [ ] AcWing 143. æœ€å¤§å¼‚æˆ–å¯¹
 
-### ²¢²é¼¯
-- [ ] AcWing 836. ºÏ²¢¼¯ºÏ
-- [ ] AcWing 837. Á¬Í¨¿éÖÐµãµÄÊýÁ¿
-- [ ] AcWing 240. Ê³ÎïÁ´
+### å¹¶æŸ¥é›†
+- [ ] AcWing 836. åˆå¹¶é›†åˆ
+- [ ] AcWing 837. è¿žé€šå—ä¸­ç‚¹çš„æ•°é‡
+- [ ] AcWing 240. é£Ÿç‰©é“¾
 
-### ¶Ñ
-- [ ] AcWing 838. ¶ÑÅÅÐò
-- [ ] AcWing 839. Ä£Äâ¶Ñ
+### å †
+- [ ] AcWing 838. å †æŽ’åº
+- [ ] AcWing 839. æ¨¡æ‹Ÿå †
 
-### ¹þÏ£±í
-- [ ] AcWing 840. Ä£ÄâÉ¢ÁÐ±í
-- [ ] AcWing 841. ×Ö·û´®¹þÏ£
+### å“ˆå¸Œè¡¨
+- [ ] AcWing 840. æ¨¡æ‹Ÿæ•£åˆ—è¡¨
+- [ ] AcWing 841. å­—ç¬¦ä¸²å“ˆå¸Œ
 
-## µÚÈý½²¡¢ËÑË÷ÓëÍ¼ÂÛ
+## ç¬¬ä¸‰è®²ã€æœç´¢ä¸Žå›¾è®º
 
 ### DFS
-- [ ] AcWing 842. ÅÅÁÐÊý×Ö
-- [ ] AcWing 843. n-»ÊºóÎÊÌâ
+- [ ] AcWing 842. æŽ’åˆ—æ•°å­—
+- [ ] AcWing 843. n-çš‡åŽé—®é¢˜
 
 ### BFS
-- [ ] AcWing 844. ×ßÃÔ¹¬
-- [ ] AcWing 845. °ËÊýÂë
+- [ ] AcWing 844. èµ°è¿·å®«
+- [ ] AcWing 845. å…«æ•°ç 
 
-### Ê÷ÓëÍ¼µÄÉî¶ÈÓÅÏÈ±éÀú
-- [ ] AcWing 846. Ê÷µÄÖØÐÄ
+### æ ‘ä¸Žå›¾çš„æ·±åº¦ä¼˜å…ˆéåŽ†
+- [ ] AcWing 846. æ ‘çš„é‡å¿ƒ
 
-### Ê÷ÓëÍ¼µÄ¹ã¶ÈÓÅÏÈ±éÀú
-- [ ] AcWing 847. Í¼ÖÐµãµÄ²ã´Î
+### æ ‘ä¸Žå›¾çš„å¹¿åº¦ä¼˜å…ˆéåŽ†
+- [ ] AcWing 847. å›¾ä¸­ç‚¹çš„å±‚æ¬¡
 
-### ÍØÆËÅÅÐò
-- [ ] AcWing 848. ÓÐÏòÍ¼µÄÍØÆËÐòÁÐ
+### æ‹“æ‰‘æŽ’åº
+- [ ] AcWing 848. æœ‰å‘å›¾çš„æ‹“æ‰‘åºåˆ—
 
 ### Dijkstra
-- [ ] AcWing 849. DijkstraÇó×î¶ÌÂ· I
-- [ ] AcWing 850. DijkstraÇó×î¶ÌÂ· II
+- [ ] AcWing 849. Dijkstraæ±‚æœ€çŸ­è·¯ I
+- [ ] AcWing 850. Dijkstraæ±‚æœ€çŸ­è·¯ II
 
 ### bellman-ford
-- [ ] AcWing 853. ÓÐ±ßÊýÏÞÖÆµÄ×î¶ÌÂ·
+- [ ] AcWing 853. æœ‰è¾¹æ•°é™åˆ¶çš„æœ€çŸ­è·¯
 
 ### spfa
-- [ ] AcWing 851. spfaÇó×î¶ÌÂ·
-- [ ] AcWing 852. spfaÅÐ¶Ï¸º»·
+- [ ] AcWing 851. spfaæ±‚æœ€çŸ­è·¯
+- [ ] AcWing 852. spfaåˆ¤æ–­è´ŸçŽ¯
 
 ### Floyd
-- [ ] AcWing 854. FloydÇó×î¶ÌÂ·
+- [ ] AcWing 854. Floydæ±‚æœ€çŸ­è·¯
 
 ### Prim
-- [ ] AcWing 858. PrimËã·¨Çó×îÐ¡Éú³ÉÊ÷
+- [ ] AcWing 858. Primç®—æ³•æ±‚æœ€å°ç”Ÿæˆæ ‘
 
 ### Kruskal
-- [ ] AcWing 859. KruskalËã·¨Çó×îÐ¡Éú³ÉÊ÷
+- [ ] AcWing 859. Kruskalç®—æ³•æ±‚æœ€å°ç”Ÿæˆæ ‘
 
-### È¾É«·¨ÅÐ¶¨¶þ·ÖÍ¼
-- [ ] AcWing 860. È¾É«·¨ÅÐ¶¨¶þ·ÖÍ¼
+### æŸ“è‰²æ³•åˆ¤å®šäºŒåˆ†å›¾
+- [ ] AcWing 860. æŸ“è‰²æ³•åˆ¤å®šäºŒåˆ†å›¾
 
-### ÐÙÑÀÀûËã·¨
-- [ ] AcWing 861. ¶þ·ÖÍ¼µÄ×î´óÆ¥Åä
+### åŒˆç‰™åˆ©ç®—æ³•
+- [ ] AcWing 861. äºŒåˆ†å›¾çš„æœ€å¤§åŒ¹é…
 
-## µÚËÄ½²¡¢ÊýÑ§ÖªÊ¶
+## ç¬¬å››è®²ã€æ•°å­¦çŸ¥è¯†
 
-### ÖÊÊý
-- [ ] AcWing 866. ÊÔ³ý·¨ÅÐ¶¨ÖÊÊý
-- [ ] AcWing 867. ·Ö½âÖÊÒòÊý
-- [ ] AcWing 868. É¸ÖÊÊý
+### è´¨æ•°
+- [ ] AcWing 866. è¯•é™¤æ³•åˆ¤å®šè´¨æ•°
+- [ ] AcWing 867. åˆ†è§£è´¨å› æ•°
+- [ ] AcWing 868. ç­›è´¨æ•°
 
-### Ô¼Êý
-- [ ] AcWing 869. ÊÔ³ý·¨ÇóÔ¼Êý
-- [ ] AcWing 870. Ô¼Êý¸öÊý
-- [ ] AcWing 871. Ô¼ÊýÖ®ºÍ
-- [ ] AcWing 872. ×î´ó¹«Ô¼Êý
+### çº¦æ•°
+- [ ] AcWing 869. è¯•é™¤æ³•æ±‚çº¦æ•°
+- [ ] AcWing 870. çº¦æ•°ä¸ªæ•°
+- [ ] AcWing 871. çº¦æ•°ä¹‹å’Œ
+- [ ] AcWing 872. æœ€å¤§å…¬çº¦æ•°
 
-### Å·À­º¯Êý
-- [ ] AcWing 873. Å·À­º¯Êý
-- [ ] AcWing 874. É¸·¨ÇóÅ·À­º¯Êý
+### æ¬§æ‹‰å‡½æ•°
+- [ ] AcWing 873. æ¬§æ‹‰å‡½æ•°
+- [ ] AcWing 874. ç­›æ³•æ±‚æ¬§æ‹‰å‡½æ•°
 
-### ¿ìËÙÃÝ
-- [ ] AcWing 875. ¿ìËÙÃÝ
-- [ ] AcWing 876. ¿ìËÙÃÝÇóÄæÔª
+### å¿«é€Ÿå¹‚
+- [ ] AcWing 875. å¿«é€Ÿå¹‚
+- [ ] AcWing 876. å¿«é€Ÿå¹‚æ±‚é€†å…ƒ
 
-### À©Õ¹Å·¼¸ÀïµÃËã·¨
-- [ ] AcWing 877. À©Õ¹Å·¼¸ÀïµÃËã·¨
-- [ ] AcWing 878. ÏßÐÔÍ¬Óà·½³Ì
+### æ‰©å±•æ¬§å‡ é‡Œå¾—ç®—æ³•
+- [ ] AcWing 877. æ‰©å±•æ¬§å‡ é‡Œå¾—ç®—æ³•
+- [ ] AcWing 878. çº¿æ€§åŒä½™æ–¹ç¨‹
 
-### ÖÐ¹úÊ£Óà¶¨Àí
-- [ ] AcWing 204. ±í´ïÕûÊýµÄÆæ¹Ö·½Ê½
+### ä¸­å›½å‰©ä½™å®šç†
+- [ ] AcWing 204. è¡¨è¾¾æ•´æ•°çš„å¥‡æ€ªæ–¹å¼
 
-### ¸ßË¹ÏûÔª
-- [ ] AcWing 883. ¸ßË¹ÏûÔª½âÏßÐÔ·½³Ì×é
-- [ ] AcWing 884. ¸ßË¹ÏûÔª½âÒì»òÏßÐÔ·½³Ì×é
+### é«˜æ–¯æ¶ˆå…ƒ
+- [ ] AcWing 883. é«˜æ–¯æ¶ˆå…ƒè§£çº¿æ€§æ–¹ç¨‹ç»„
+- [ ] AcWing 884. é«˜æ–¯æ¶ˆå…ƒè§£å¼‚æˆ–çº¿æ€§æ–¹ç¨‹ç»„
 
-### Çó×éºÏÊý
-- [ ] AcWing 885. Çó×éºÏÊý I
-- [ ] AcWing 886. Çó×éºÏÊý II
-- [ ] AcWing 887. Çó×éºÏÊý III
-- [ ] AcWing 888. Çó×éºÏÊý IV
-- [ ] AcWing 889. Âú×ãÌõ¼þµÄ01ÐòÁÐ
+### æ±‚ç»„åˆæ•°
+- [ ] AcWing 885. æ±‚ç»„åˆæ•° I
+- [ ] AcWing 886. æ±‚ç»„åˆæ•° II
+- [ ] AcWing 887. æ±‚ç»„åˆæ•° III
+- [ ] AcWing 888. æ±‚ç»„åˆæ•° IV
+- [ ] AcWing 889. æ»¡è¶³æ¡ä»¶çš„01åºåˆ—
 
-### ÈÝ³âÔ­Àí
-- [ ] AcWing 890. ÄÜ±»Õû³ýµÄÊý
+### å®¹æ–¥åŽŸç†
+- [ ] AcWing 890. èƒ½è¢«æ•´é™¤çš„æ•°
 
-### ²©ÞÄÂÛ
-- [ ] AcWing 891. NimÓÎÏ·
-- [ ] AcWing 892. Ì¨½×-NimÓÎÏ·
-- [ ] AcWing 893. ¼¯ºÏ-NimÓÎÏ·
-- [ ] AcWing 894. ²ð·Ö-NimÓÎÏ·
+### åšå¼ˆè®º
+- [ ] AcWing 891. Nimæ¸¸æˆ
+- [ ] AcWing 892. å°é˜¶-Nimæ¸¸æˆ
+- [ ] AcWing 893. é›†åˆ-Nimæ¸¸æˆ
+- [ ] AcWing 894. æ‹†åˆ†-Nimæ¸¸æˆ
 
-## µÚÎå½²¡¢¶¯Ì¬¹æ»®
+## ç¬¬äº”è®²ã€åŠ¨æ€è§„åˆ’
 
-### ±³°üÎÊÌâ
-- [ ] AcWing 2. 01±³°üÎÊÌâ
-- [ ] AcWing 3. ÍêÈ«±³°üÎÊÌâ
-- [ ] AcWing 4. ¶àÖØ±³°üÎÊÌâ
-- [ ] AcWing 5. ¶àÖØ±³°üÎÊÌâ II
-- [ ] AcWing 9. ·Ö×é±³°üÎÊÌâ
+### èƒŒåŒ…é—®é¢˜
+- [ ] AcWing 2. 01èƒŒåŒ…é—®é¢˜
+- [ ] AcWing 3. å®Œå…¨èƒŒåŒ…é—®é¢˜
+- [ ] AcWing 4. å¤šé‡èƒŒåŒ…é—®é¢˜
+- [ ] AcWing 5. å¤šé‡èƒŒåŒ…é—®é¢˜ II
+- [ ] AcWing 9. åˆ†ç»„èƒŒåŒ…é—®é¢˜
 
-### ÏßÐÔDP
-- [ ] AcWing 898. Êý×ÖÈý½ÇÐÎ
-- [ ] AcWing 895. ×î³¤ÉÏÉý×ÓÐòÁÐ
-- [ ] AcWing 896. ×î³¤ÉÏÉý×ÓÐòÁÐ II
-- [ ] AcWing 897. ×î³¤¹«¹²×ÓÐòÁÐ
-- [ ] AcWing 902. ×î¶Ì±à¼­¾àÀë
-- [ ] AcWing 899. ±à¼­¾àÀë
+### çº¿æ€§DP
+- [ ] AcWing 898. æ•°å­—ä¸‰è§’å½¢
+- [ ] AcWing 895. æœ€é•¿ä¸Šå‡å­åºåˆ—
+- [ ] AcWing 896. æœ€é•¿ä¸Šå‡å­åºåˆ— II
+- [ ] AcWing 897. æœ€é•¿å…¬å…±å­åºåˆ—
+- [ ] AcWing 902. æœ€çŸ­ç¼–è¾‘è·ç¦»
+- [ ] AcWing 899. ç¼–è¾‘è·ç¦»
 
-### Çø¼äDP
-- [ ] AcWing 282. Ê¯×ÓºÏ²¢
+### åŒºé—´DP
+- [ ] AcWing 282. çŸ³å­åˆå¹¶
 
-### ¼ÆÊýÀàDP
-- [ ] AcWing 900. ÕûÊý»®·Ö
+### è®¡æ•°ç±»DP
+- [ ] AcWing 900. æ•´æ•°åˆ’åˆ†
 
-### ÊýÎ»Í³¼ÆDP
-- [ ] AcWing 338. ¼ÆÊýÎÊÌâ
+### æ•°ä½ç»Ÿè®¡DP
+- [ ] AcWing 338. è®¡æ•°é—®é¢˜
 
-### ×´Ì¬Ñ¹ËõDP
-- [ ] AcWing 291. ÃÉµÂÀï°²µÄÃÎÏë
-- [ ] AcWing 91. ×î¶ÌHamiltonÂ·¾¶
+### çŠ¶æ€åŽ‹ç¼©DP
+- [ ] AcWing 291. è’™å¾·é‡Œå®‰çš„æ¢¦æƒ³
+- [ ] AcWing 91. æœ€çŸ­Hamiltonè·¯å¾„
 
-### Ê÷ÐÎDP
-- [ ] AcWing 285. Ã»ÓÐÉÏË¾µÄÎè»á
+### æ ‘å½¢DP
+- [ ] AcWing 285. æ²¡æœ‰ä¸Šå¸çš„èˆžä¼š
 
-### ¼ÇÒä»¯ËÑË÷
-- [ ] AcWing 901. »¬Ñ©
+### è®°å¿†åŒ–æœç´¢
+- [ ] AcWing 901. æ»‘é›ª
 
-## µÚÁù½²¡¢Ì°ÐÄ
+## ç¬¬å…­è®²ã€è´ªå¿ƒ
 
-### Çø¼äÎÊÌâ
-- [ ] AcWing 905. Çø¼äÑ¡µã
-- [ ] AcWing 908. ×î´ó²»Ïà½»Çø¼äÊýÁ¿
-- [ ] AcWing 906. Çø¼ä·Ö×é
-- [ ] AcWing 907. Çø¼ä¸²¸Ç
+### åŒºé—´é—®é¢˜
+- [ ] AcWing 905. åŒºé—´é€‰ç‚¹
+- [ ] AcWing 908. æœ€å¤§ä¸ç›¸äº¤åŒºé—´æ•°é‡
+- [ ] AcWing 906. åŒºé—´åˆ†ç»„
+- [ ] AcWing 907. åŒºé—´è¦†ç›–
 
-### HuffmanÊ÷
-- [ ] AcWing 148. ºÏ²¢¹û×Ó
+### Huffmanæ ‘
+- [ ] AcWing 148. åˆå¹¶æžœå­
 
-### ÅÅÐò²»µÈÊ½
-- [ ] AcWing 913. ÅÅ¶Ó´òË®
+### æŽ’åºä¸ç­‰å¼
+- [ ] AcWing 913. æŽ’é˜Ÿæ‰“æ°´
 
-### ¾ø¶ÔÖµ²»µÈÊ½
-- [ ] AcWing 104. »õ²ÖÑ¡Ö·
+### ç»å¯¹å€¼ä¸ç­‰å¼
+- [ ] AcWing 104. è´§ä»“é€‰å€
 
-### ÍÆ¹«Ê½
-- [ ] AcWing 125. Ë£ÔÓ¼¼µÄÅ£
+### æŽ¨å…¬å¼
+- [ ] AcWing 125. è€æ‚æŠ€çš„ç‰›
