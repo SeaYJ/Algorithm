@@ -3,8 +3,8 @@
 ## 第一讲、基础算法
 
 ### 快速排序
-- [x] [AcWing 785.](https://www.acwing.com/problem/content/787/) [快速排序](/src/AcWing785.快速排序.cpp)
-- [ ] AcWing 786. 第k个数
+- [x] AcWing 785. [快速排序](/src/AcWing785.快速排序.cpp) - [文章链接](https://www.seayj.cn/articles/4a454e53/)
+- [x] AcWing 786. [第k个数](/src/AcWing786.第k个数.cpp)
 
 ### 归并排序
 - [ ] AcWing 787. 归并排序
