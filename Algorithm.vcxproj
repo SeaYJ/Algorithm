@@ -19,7 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="src\AcWing786.第k个数.cpp" />
     <ClCompile Include="src\AcWing785.快速排序.cpp" />
+    <ClCompile Include="src\AcWing787.归并排序.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

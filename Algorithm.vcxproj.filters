@@ -18,5 +18,11 @@
     <ClCompile Include="src\AcWing785.快速排序.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="src\AcWing786.第k个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\AcWing787.归并排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

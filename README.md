@@ -7,8 +7,8 @@
 - [x] AcWing 786. [第k个数](/src/AcWing786.第k个数.cpp)
 
 ### 归并排序
-- [ ] AcWing 787. 归并排序
-- [ ] AcWing 788. 逆序对的数量
+- [x] AcWing 787. [归并排序](/src/AcWing787.归并排序.cpp) - [文章链接](https://www.seayj.cn/articles/973627fe/)
+- [x] AcWing 788. [逆序对的数量](/src/AcWing788.逆序对的数量.cpp)
 
 ### 二分
 - [ ] AcWing 789. 数的范围
