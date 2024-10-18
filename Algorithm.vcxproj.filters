@@ -24,5 +24,8 @@
     <ClCompile Include="src\AcWing787.归并排序.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="src\AcWing788.逆序对的数量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

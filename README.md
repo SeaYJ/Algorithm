@@ -11,7 +11,7 @@
 - [x] AcWing 788. [逆序对的数量](/src/AcWing788.逆序对的数量.cpp)
 
 ### 二分
-- [ ] AcWing 789. 数的范围
+- [x] AcWing 789. [数的范围](/src/AcWing789.数的范围（二分查找）.cpp) - [文章链接](https://www.seayj.cn/articles/ee6ec901/)
 - [ ] AcWing 790. 数的三次方根
 
 ### 高精度
