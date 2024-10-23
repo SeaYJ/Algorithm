@@ -12,7 +12,7 @@
 
 ### 二分
 - [x] AcWing 789. [数的范围](/src/AcWing789.数的范围（二分查找）.cpp) - [文章链接](https://www.seayj.cn/articles/ee6ec901/)
-- [ ] AcWing 790. 数的三次方根
+- [x] AcWing 790. [数的三次方根](/src/AcWing790.数的三次方根.cpp)
 
 ### 高精度
 - [ ] AcWing 791. 高精度加法
