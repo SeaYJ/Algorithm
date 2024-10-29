@@ -11,14 +11,14 @@
 - [x] AcWing 788. [逆序对的数量](/src/AcWing788.逆序对的数量.cpp)
 
 ### 二分
-- [x] AcWing 789. [数的范围](/src/AcWing789.数的范围（二分查找）.cpp) - [文章链接](https://www.seayj.cn/articles/ee6ec901/)
+- [x] AcWing 789. [数的范围](/src/AcWing789.二分查找.cpp) - [文章链接](https://www.seayj.cn/articles/ee6ec901/)
 - [x] AcWing 790. [数的三次方根](/src/AcWing790.数的三次方根.cpp)
 
 ### 高精度
-- [ ] AcWing 791. 高精度加法
-- [ ] AcWing 792. 高精度减法
-- [ ] AcWing 793. 高精度乘法
-- [ ] AcWing 794. 高精度除法
+- [x] AcWing 791. [高精度加法](/src/AcWing791.大数运算.cpp) - [文章链接](https://www.seayj.cn/articles/ad7498a/)
+- [x] AcWing 792. [高精度减法](/src/AcWing791.大数运算.cpp) - [文章链接](https://www.seayj.cn/articles/ad7498a/)
+- [x] AcWing 793. [高精度乘法](/src/AcWing791.大数运算.cpp) - [文章链接](https://www.seayj.cn/articles/ad7498a/)
+- [x] AcWing 794. [高精度除法](/src/AcWing791.大数运算.cpp) - [文章链接](https://www.seayj.cn/articles/ad7498a/)
 
 ### 前缀和与差分
 - [ ] AcWing 795. 前缀和
