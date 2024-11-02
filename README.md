@@ -21,10 +21,10 @@
 - [x] AcWing 794. [高精度除法](/src/AcWing791.大数运算.cpp) - [文章链接](https://www.seayj.cn/articles/ad7498a/)
 
 ### 前缀和与差分
-- [ ] AcWing 795. 前缀和
-- [ ] AcWing 796. 子矩阵的和
-- [ ] AcWing 797. 差分
-- [ ] AcWing 798. 差分矩阵
+- [x] AcWing 795. [前缀和](/src/AcWing795.前缀和.cpp) - [文章链接](https://www.seayj.cn/articles/7fc7db74/)
+- [x] AcWing 796. [子矩阵的和](/src/AcWing796.子矩阵的和.cpp) - [文章链接](https://www.seayj.cn/articles/7fc7db74/)
+- [x] AcWing 797. [差分](/src/AcWing797.差分.cpp) - [文章链接](https://www.seayj.cn/articles/7fc7db74/)
+- [x] AcWing 798. [差分矩阵](/src/AcWing798.差分矩阵.cpp) - [文章链接](https://www.seayj.cn/articles/7fc7db74/)
 
 ### 双指针算法
 - [ ] AcWing 799. 最长连续不重复子序列

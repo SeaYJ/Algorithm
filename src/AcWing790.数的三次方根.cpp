@@ -1,15 +1,15 @@
-ï»¿#include <iostream>
+#include <iostream>
 using namespace std;
 
 /**
- * @brief æ±‚æµ®ç‚¹æ•°çš„ç«‹æ–¹æ ¹
- * @param n å¾…æ±‚æµ®ç‚¹æ•°
- * @param left æµ®ç‚¹æ•° n æ‰€å±èŒƒå›´æœ€å°å€¼
- * @param right æµ®ç‚¹æ•° n æ‰€å±èŒƒå›´æœ€å¤§å€¼
- * @return æµ®ç‚¹æ•°çš„ç«‹æ–¹æ ¹ï¼ˆç²¾åº¦ä¸º 6 ä½å°æ•°ï¼‰
+ * @brief Çó¸¡µãÊıµÄÁ¢·½¸ù
+ * @param n ´ıÇó¸¡µãÊı
+ * @param left ¸¡µãÊı n ËùÊô·¶Î§×îĞ¡Öµ
+ * @param right ¸¡µãÊı n ËùÊô·¶Î§×î´óÖµ
+ * @return ¸¡µãÊıµÄÁ¢·½¸ù£¨¾«¶ÈÎª 6 Î»Ğ¡Êı£©
  */
 static double cubic_root(double n, double left = -10000.0f, double right = 10000.0f) {
-    while (left - right > 1e-8) {   // æ³¨æ„è¿™é‡Œçš„åˆ¤æ–­æ¡ä»¶ä¸ä¸€æ ·äº†ï¼ˆä¸€èˆ¬è®¡ç®—æ—¶é‡‡ç”¨æ¯”ç²¾åº¦ä½æ•°å¤šä¸¤ä½çš„å€¼ï¼‰
+    while (left - right > 1e-8) {   // ×¢ÒâÕâÀïµÄÅĞ¶ÏÌõ¼ş²»Ò»ÑùÁË£¨Ò»°ã¼ÆËãÊ±²ÉÓÃ±È¾«¶ÈÎ»Êı¶àÁ½Î»µÄÖµ£©
         double mid = (left + right) / 2.0f;
 
         if (mid * mid * mid < n) {

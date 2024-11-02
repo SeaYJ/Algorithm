@@ -23,7 +23,13 @@
     <ClCompile Include="src\AcWing785.快速排序.cpp" />
     <ClCompile Include="src\AcWing787.归并排序.cpp" />
     <ClCompile Include="src\AcWing788.逆序对的数量.cpp" />
-    <ClCompile Include="src\AcWing789.数的范围（二分查找）.cpp" />
+    <ClCompile Include="src\AcWing789.二分查找.cpp" />
+    <ClCompile Include="src\AcWing795.前缀和.cpp" />
+    <ClCompile Include="src\AcWing796.子矩阵的和.cpp" />
+    <ClCompile Include="src\AcWing797.差分.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="src\AcWing791.大数运算.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
