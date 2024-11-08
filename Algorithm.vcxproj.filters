@@ -30,8 +30,34 @@
     <ClCompile Include="src\AcWing789.二分查找.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="src\AcWing795.前缀和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\AcWing796.子矩阵的和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\AcWing797.差分.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\AcWing790.数的三次方根.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\AcWing798.差分矩阵.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\AcWing799.最长连续不重复子序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\AcWing800.数组元素的目标和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="src\AcWing2816.判断子序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="src\AcWing791.大数运算.cpp" />
+    <None Include="src\AcWing791.大数运算.cpp">
+      <Filter>源文件</Filter>
+    </None>
   </ItemGroup>
 </Project>

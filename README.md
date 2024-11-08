@@ -27,9 +27,9 @@
 - [x] AcWing 798. [差分矩阵](/src/AcWing798.差分矩阵.cpp) - [文章链接](https://www.seayj.cn/articles/7fc7db74/)
 
 ### 双指针算法
-- [ ] AcWing 799. 最长连续不重复子序列
-- [ ] AcWing 800. 数组元素的目标和
-- [ ] AcWing 2816. 判断子序列
+- [x] AcWing 799. [最长连续不重复子序列](/src/AcWing799.最长连续不重复子序列.cpp)
+- [x] AcWing 800. [数组元素的目标和](/src/AcWing800.数组元素的目标和.cpp)
+- [x] AcWing 2816. [判断子序列](/src/AcWing2816.判断子序列.cpp)
 
 ### 位运算
 - [ ] AcWing 801. 二进制中1的个数
