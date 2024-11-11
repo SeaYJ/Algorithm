@@ -32,10 +32,10 @@
 - [x] AcWing 2816. [判断子序列](/src/AcWing2816.判断子序列.cpp)
 
 ### 位运算
-- [x] AcWing 801. [二进制中1的个数](/src/AcWing801.二进制中1的个数.cpp)
+- [x] AcWing 801. [二进制中1的个数](/src/AcWing801.二进制中1的个数.cpp) - [文章链接](https://www.seayj.cn/articles/9f470bbc/)
 
 ### 离散化
-- [ ] AcWing 802. 区间和
+- [x] AcWing 802. [区间和](/src/AcWing802.区间和.cpp)
 
 ### 区间合并
 - [ ] AcWing 803. 区间合并
