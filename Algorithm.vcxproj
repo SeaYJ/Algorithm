@@ -33,6 +33,7 @@
     <ClCompile Include="src\AcWing799.最长连续不重复子序列.cpp" />
     <ClCompile Include="src\AcWing800.数组元素的目标和.cpp" />
     <ClCompile Include="src\AcWing801.二进制中1的个数.cpp" />
+    <ClCompile Include="src\AcWing802.区间和.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="src\AcWing791.大数运算.cpp" />

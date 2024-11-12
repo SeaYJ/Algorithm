@@ -38,7 +38,7 @@
 - [x] AcWing 802. [区间和](/src/AcWing802.区间和.cpp)
 
 ### 区间合并
-- [ ] AcWing 803. 区间合并
+- [x] AcWing 803. [区间合并](/src/AcWing803.区间合并.cpp) - [文章链接](https://www.seayj.cn/articles/adc75522/)
 
 ## 第二讲、数据结构
 
