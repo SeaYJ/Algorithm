@@ -1,5 +1,4 @@
 #include <iostream>
-#include <vector>
 using namespace std;
 
 // 注意，之所以不使用动态链表是因为 new 操作会浪费大量的时间，
@@ -13,7 +12,7 @@ int el[N],          // 存储链表的值 element
 /**
  * @brief 初始化链表（设置 0 位置用作为链表头 head）
  */
-static void init() {
+static void initNode() {
     ne[0] = -1; // 这里以 -1 作为链表结束的标志
 }
 
@@ -33,7 +32,7 @@ static void insertNode(int k, int x) {
  * @brief 删除 k 节点后面的一个节点
  * @param k 位置
  */
-static void deleteNode(int k) {
+static void removeNode(int k) {
     ne[k] = ne[ne[k]];  // 直接将 k 位置节点的指向设置为“k 位置节点指向的节点的指向”
 }
 

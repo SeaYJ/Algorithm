@@ -63,6 +63,9 @@
     <ClCompile Include="src\AcWing803.区间合并.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="src\AcWing826.单链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="src\AcWing791.大数运算.cpp">

@@ -46,7 +46,7 @@
 - [x] AcWing 826. [单链表](/src/AcWing826.单链表.cpp)
 
 ### 双链表
-- [ ] AcWing 827. 双链表
+- [x] AcWing 827. [双链表](/src/AcWing827.双链表.cpp)
 
 ### 栈
 - [ ] AcWing 828. 模拟栈

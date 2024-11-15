@@ -35,6 +35,7 @@
     <ClCompile Include="src\AcWing801.二进制中1的个数.cpp" />
     <ClCompile Include="src\AcWing802.区间和.cpp" />
     <ClCompile Include="src\AcWing803.区间合并.cpp" />
+    <ClCompile Include="src\AcWing826.单链表.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="src\AcWing791.大数运算.cpp" />
