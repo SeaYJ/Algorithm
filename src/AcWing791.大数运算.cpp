@@ -29,6 +29,32 @@ static vector<int> add(vector<int>& A, vector<int>& B) {
     return C;
 }
 
+/**
+ * @brief (模板 2)非负大数运算 C = A + B
+ * @param A 非负加数（逆序存储）
+ * @param B 非负加数（逆序存储）
+ * @return 运算结果（逆序存储）
+ */
+static vector<int> add(vector<int>& A, vector<int>& B) {
+    vector<int> C;  // 运算结果
+
+    // 加法计算
+    int carry = 0, // 加法进位：来自低位
+        i = 0;     
+    while (i < A.size() || i < B.size() || carry != 0) {    // 注意：要把两个数的所有位都计算完（在这里直接解决可能的最高位进位）
+        // 计算 A[i] + B[i] + t
+        if (i < A.size()) carry += A[i];
+        if (i < B.size()) carry += B[i];
+
+        C.push_back(carry % 10);    // 保存本位的数值结果
+        carry /= 10;                // 计算向上的进位值
+        i++;
+    }
+
+    // 返回结果
+    return C;
+}
+
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 
 /**
