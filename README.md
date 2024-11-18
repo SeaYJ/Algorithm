@@ -49,17 +49,17 @@
 - [x] AcWing 827. [双链表](/src/AcWing827.双链表.cpp)
 
 ### 栈
-- [ ] AcWing 828. 模拟栈
-- [ ] AcWing 3302. 表达式求值
+- [x] AcWing 828. [模拟栈](/src/AcWing828.模拟栈.cpp)
+- [x] AcWing 3302. [表达式求值](https://www.acwing.com/file_system/file/content/whole/index/content/12677022/)
 
 ### 队列
-- [ ] AcWing 829. 模拟队列
+- [x] AcWing 829. [模拟队列](/src/AcWing829.模拟队列.cpp)
 
 ### 单调栈
-- [ ] AcWing 830. 单调栈
+- [x] AcWing 830. [单调栈](https://www.acwing.com/file_system/file/content/whole/index/content/12681389/)
 
 ### 单调队列
-- [ ] AcWing 154. 滑动窗口
+- [x] AcWing 154. [滑动窗口](https://www.acwing.com/file_system/file/content/whole/index/content/12684763/)
 
 ### KMP
 - [ ] AcWing 831. KMP字符串
