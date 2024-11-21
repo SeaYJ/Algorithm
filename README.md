@@ -62,7 +62,7 @@
 - [x] AcWing 154. [滑动窗口](https://www.acwing.com/file_system/file/content/whole/index/content/12684763/)
 
 ### KMP
-- [ ] AcWing 831. KMP字符串
+- [x] AcWing 831. [KMP字符串](/src/AcWing831.KMP字符串.cpp)
 
 ### Trie
 - [ ] AcWing 835. Trie字符串统计
